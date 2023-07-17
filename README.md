@@ -29,8 +29,6 @@ This repository contains a C++ program that performs face detection using OpenCV
 ## Resources
 The `Resources` folder in this repository contains the pre-trained cascade classifier file `nose.xml` used for face detection. You can replace it with your own trained classifier or use other pre-trained classifiers provided by OpenCV.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - The face detection algorithm is powered by OpenCV, an open-source computer vision library. Visit the official [OpenCV website](https://opencv.org/) for more information.
